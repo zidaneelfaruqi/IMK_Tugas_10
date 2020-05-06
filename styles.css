@@ -1,0 +1,50 @@
+body
+{
+    background-color: #FFF8DC;
+    color: black;
+    font-family: Courier new;
+    border-color: red;
+    
+}
+
+
+
+h1
+{
+    text-align: center; 
+    border-style: inset;
+    border-color: black;
+}
+
+.judul
+{
+    background-color: #FF7F50;
+    color: #142850;
+    font-weight: bold;
+    font-family: courier new;
+    margin: 0;
+    padding: 20px 5px;
+}
+
+.hubungi
+{
+    background-color: #7FFF00;
+    color: black;
+    font-family: comic sans ms;
+    padding: 10px 30px;
+}
+
+
+ #batesanprofil{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    border-color: orange;
+
+    width: 100%;
+
+  }
+
+
+
+
